@@ -11,11 +11,8 @@
     <title>Title</title>
 </head>
 <body>
-
-<a href="/book/1">查询图书</a><br/>
-<form href="/book/2" method="post">
-    <input type="submit" value="添加图书">
-</form>
-
+<a href="/output1">haha</a><br/>
+<a href="/output2">xixi</a><br/>
+<a href="/output3">lala</a><br/>
 </body>
 </html>
